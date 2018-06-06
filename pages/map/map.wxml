@@ -1,0 +1,3 @@
+<map id="map" longitude="{{longitude}}" latitude="{{latitude}}" include-points="{{markers}}" scale="18" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 300px;"></map>
+
+<button bindtap="chooseMap">选择地点</button>
